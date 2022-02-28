@@ -1,0 +1,18 @@
+:root {
+  /* primary/main color/background */
+  --clr-primary-1: #418fe7;
+  --clr-primary-2: #ffffff;
+  --clr-primary-3: #000000;
+}
+
+#navbarScrollingDropdown {
+  max-width: 100%;
+  color: var(--clr-primary-2);
+}
+
+.ResponsiveBehaviorNavBarTitel {
+  background-color: var(--clr-primary-4);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+}

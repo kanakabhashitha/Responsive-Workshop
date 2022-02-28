@@ -1,0 +1,20 @@
+:root {
+  /* primary/main color/background */
+  --clr-primary-1: #418fe7;
+  --clr-primary-2: #ffffff;
+  --clr-primary-3: #000000;
+  --clr-primary-4: #e0e0e0;
+}
+
+#navbarScrollingDropdown {
+  max-width: 100%;
+  color: var(--clr-primary-1);
+}
+
+.NavbarOffcanvasTitle {
+  background-color: var(--clr-primary-4);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 50px;
+  padding-left: 15px;
+}

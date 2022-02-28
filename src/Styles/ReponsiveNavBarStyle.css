@@ -7,7 +7,7 @@
 
 #navbarScrollingDropdown {
   max-width: 100%;
-  color: var(--clr-primary-2);
+  color: var(--clr-primary-2) !important;
 }
 
 .ResponsiveBehaviorNavBarTitel {

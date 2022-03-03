@@ -1,0 +1,82 @@
+.firstRow {
+  flex-wrap: nowrap;
+  overflow: hidden;
+  display: flex;
+  min-height: 30px;
+}
+
+.A {
+  text-align: center;
+  background-color: rgb(214, 35, 35);
+}
+
+.B {
+  text-align: center;
+  background-color: rgb(214, 35, 214);
+}
+
+.secondRow {
+  flex-wrap: nowrap;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  min-height: 100px;
+}
+
+.C {
+  min-width: 100%;
+  min-height: 16.66%;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(84, 224, 49);
+}
+
+.D {
+  min-width: 100%;
+  min-height: 83.33%;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(16, 190, 40);
+}
+
+.thirdcol {
+  flex-wrap: nowrap;
+  overflow: hidden;
+  justify-content: center;
+}
+
+.thirdRow {
+  min-width: 100%;
+  min-height: 33.33%;
+  justify-content: center;
+  align-items: center;
+
+  background-color: rgb(75, 105, 238);
+}
+
+.forthRow {
+  flex-wrap: nowrap;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  min-height: 66.66%;
+}
+
+.F {
+  text-align: center;
+  background-color: rgb(16, 58, 150);
+}
+
+.G {
+  text-align: center;
+  background-color: rgb(109, 179, 236);
+}
+
+.gridTitle {
+  background-color: var(--clr-primary-4);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 50px;
+  padding-left: 15px;
+  margin-bottom: 20px;
+}

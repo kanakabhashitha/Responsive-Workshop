@@ -25,6 +25,7 @@ function ResponsiveBehaviorNavBar(props) {
       <div className=" ResponsiveBehaviorNavBarTitel">
         Responsive Behavior NavBar
       </div>
+
       <Navbar bg="primary" expand="lg">
         <Container fluid>
           <Navbar.Brand href="#">

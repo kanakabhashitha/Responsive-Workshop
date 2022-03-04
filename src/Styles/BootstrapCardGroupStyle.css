@@ -1,0 +1,23 @@
+.mainContainer {
+  min-width: 100%;
+  min-height: auto;
+  margin-top: 50px;
+}
+
+.row-1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@media all and (max-width: 767px) {
+  .col-1 {
+    margin-bottom: 30px;
+  }
+  .col-2 {
+    margin-bottom: 30px;
+  }
+  .col-3 {
+    margin-bottom: 30px;
+  }
+}

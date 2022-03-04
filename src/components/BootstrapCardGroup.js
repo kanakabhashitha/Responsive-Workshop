@@ -7,6 +7,8 @@ import "../Styles/BootstrapCardGroupStyle.css";
 function BootstrapCardGroup(props) {
   return (
     <>
+      <div className="bootsrapCardTitle">Bootstrap Card</div>
+
       <Container className="mainContainer">
         <Row className="row-1" xs={1} md={4}>
           <Col className="col-1" xs={12} md={3}>
